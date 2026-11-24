@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 2827, 2403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuanquan09
+  rotate: false
+  xy: 1, 1
+  size: 708, 777
+  orig: 939, 939
+  offset: 97, 113
+  index: -1
+yuanquan10
+  rotate: false
+  xy: 713, 1
+  size: 709, 762
+  orig: 939, 939
+  offset: 94, 113
+  index: -1
+yuanquan11
+  rotate: false
+  xy: 1424, 1
+  size: 678, 748
+  orig: 939, 939
+  offset: 105, 129
+  index: -1
+yuanquan08
+  rotate: false
+  xy: 2105, 1
+  size: 690, 715
+  orig: 939, 939
+  offset: 105, 146
+  index: -1
+yuanquan07
+  rotate: false
+  xy: 1, 781
+  size: 666, 685
+  orig: 939, 939
+  offset: 125, 151
+  index: -1
+yuanquan12
+  rotate: true
+  xy: 671, 781
+  size: 682, 647
+  orig: 939, 939
+  offset: 107, 199
+  index: -1
+yuanquan06
+  rotate: true
+  xy: 1320, 781
+  size: 637, 658
+  orig: 939, 939
+  offset: 146, 148
+  index: -1
+yuanquan13
+  rotate: false
+  xy: 1981, 781
+  size: 653, 585
+  orig: 939, 939
+  offset: 119, 236
+  index: -1
+yuanquan05
+  rotate: true
+  xy: 1, 1469
+  size: 580, 615
+  orig: 939, 939
+  offset: 188, 179
+  index: -1
+yuanquan04
+  rotate: true
+  xy: 619, 1469
+  size: 551, 594
+  orig: 939, 939
+  offset: 209, 174
+  index: -1
+yuanquan03
+  rotate: true
+  xy: 1215, 1469
+  size: 475, 530
+  orig: 939, 939
+  offset: 242, 211
+  index: -1
+yuanquan14
+  rotate: false
+  xy: 1748, 1469
+  size: 658, 426
+  orig: 939, 939
+  offset: 118, 371
+  index: -1
+yuanquan02
+  rotate: false
+  xy: 2409, 1469
+  size: 417, 412
+  orig: 939, 939
+  offset: 280, 270
+  index: -1
+yuanquan01
+  rotate: false
+  xy: 1, 2052
+  size: 362, 349
+  orig: 939, 939
+  offset: 333, 303
+  index: -1
+2/huohua05_1
+  rotate: false
+  xy: 366, 2052
+  size: 262, 198
+  orig: 262, 207
+  offset: 0, 0
+  index: -1
+2/huohua04_1
+  rotate: false
+  xy: 631, 2052
+  size: 242, 178
+  orig: 262, 207
+  offset: 15, 18
+  index: -1
+2/huohua03_1
+  rotate: false
+  xy: 876, 2052
+  size: 202, 138
+  orig: 262, 207
+  offset: 37, 40
+  index: -1
+2/huohua02_1
+  rotate: false
+  xy: 1081, 2052
+  size: 166, 107
+  orig: 262, 207
+  offset: 46, 48
+  index: -1
+2/huohua01_1
+  rotate: false
+  xy: 1250, 2052
+  size: 127, 86
+  orig: 262, 207
+  offset: 70, 64
+  index: -1
+yuanquan15
+  rotate: true
+  xy: 1380, 2052
+  size: 76, 187
+  orig: 939, 939
+  offset: 694, 557
+  index: -1
+yuanquan16
+  rotate: true
+  xy: 1569, 2052
+  size: 55, 112
+  orig: 939, 939
+  offset: 701, 604
+  index: -1
